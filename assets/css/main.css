@@ -734,6 +734,9 @@ body{
     .intro--banner img{
         display:none
     }
+    .intro--options{
+        display:none
+    }
     
 }
 @media (max-width: 470px) and (max-height: 750px){
@@ -747,7 +750,7 @@ body{
         margin-top:0
     }
     .intro--options{
-        display:none
+        display: none
     }
 }
 
