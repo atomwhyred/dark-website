@@ -1,5 +1,6 @@
-Usando la plantilla:
+Landing page usando la plantilla:
 # [Global: HTML5 website template](http://buckymaler.com/global)
+https://darkwebsite-atom.netlify.app/
 
 Global es una plantilla de sitio web sencilla, moderna y elegante diseñada para profesionales de la industria creativa. Puede servir como un portafolio de una sola página o modificarse fácilmente para servir como el comienzo perfecto para una agencia creativa moderna.
 
